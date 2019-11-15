@@ -7,12 +7,12 @@ WeAreDevs team for the internal exploit
 Microsoft for the tool to make this possible (Visual Studio)
 
 Tools Used:
-Visual Studio
-Resource Hacker
-Restorator 2018
-GitHub desktop
-Git 
-Bandizip 
+Visual Studio,
+Resource Hacker,
+Restorator 2018,
+GitHub desktop,
+Git,
+Bandizip
 
 Why this exists:
 I get it, exploits are against the Roblox TOS but,
