@@ -1,4 +1,4 @@
-# Open-Cploit is down due to broken hackintosh installation and will not be re-published. If you still need the sources, extract it from websites.
+# Open-Cploit is down due to broken hackintosh installation and will not be re-published due to file loss and licence & EULA issues. If you still need the sources, extract it from websites.
 
 
 
