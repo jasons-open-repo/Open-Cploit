@@ -1,4 +1,8 @@
-# Open-Cploit
+# Open-Cploit is down due to broken hackintosh installation and will not be re-published. If you still need the sources, extract it from websites.
+
+
+
+# Open-Cploit 
 A free roblox exploit that’s open-source most likely for R&D (Research and Development)
 
 Contributors:
